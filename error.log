@@ -1,0 +1,7 @@
+2025-01-04 10:46:25,350 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\PythonProject\\zhihu-spider\\result.jpg'
+2025-01-04 10:49:01,110 - ERROR - An error occurred: No module named 'onnxruntime'
+2025-01-04 10:52:49,267 - ERROR - Error while connecting to MySQL: 2003 (HY000): Can't connect to MySQL server on '54.169.143.126:3306' (10061)
+2025-01-04 10:52:53,500 - ERROR - Failed to get data: 'NoneType' object has no attribute 'cursor'
+2025-01-04 10:52:53,500 - ERROR - An error occurred: cannot access local variable 'cursor' where it is not associated with a value
+2025-01-04 11:02:40,781 - ERROR - Failed to get data: list index out of range
+2025-01-04 11:02:40,781 - ERROR - An error occurred: cannot access local variable 'cursor' where it is not associated with a value
